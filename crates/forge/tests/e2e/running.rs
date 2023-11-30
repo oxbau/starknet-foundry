@@ -744,7 +744,7 @@ fn init_new_project_test() {
             [package]
             name = "test_name"
             version = "0.1.0"
-            edition = "2023_11"
+            edition = "2023_10"
 
             # See more keys and their definitions at https://docs.swmansion.com/scarb/docs/reference/manifest.html
 
